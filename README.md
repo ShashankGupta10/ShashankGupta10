@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **React.js, Node.js and Express.js**
 
-- 👨‍💻 All of my projects are available at [github.com/ShashankGupta10](github.com/ShashankGupta10)
+- 👨‍💻 All of my projects are available at [Github](github.com/ShashankGupta10)
 
 - 💬 Ask me about **Node.js**
 
 - 📫 How to reach me **shashankgupta9248@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mgT8Fb-cZDQEpVZhZx06Oy7qA1gS7P03/view?usp=share_link](https://drive.google.com/file/d/1mgT8Fb-cZDQEpVZhZx06Oy7qA1gS7P03/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mgT8Fb-cZDQEpVZhZx06Oy7qA1gS7P03/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
 
