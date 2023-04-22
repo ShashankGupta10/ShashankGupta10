@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">A passionate Backend and Frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashankgupta10" alt="shashankgupta10" /></a> </p>
-
 - 🔭 I’m currently working on **JWT Web Authentication Project**
 
 - 🌱 I’m currently learning **React.js, Node.js and Express.js**
@@ -16,9 +14,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mgT8Fb-cZDQEpVZhZx06Oy7qA1gS7P03/view?usp=share_link](https://drive.google.com/file/d/1mgT8Fb-cZDQEpVZhZx06Oy7qA1gS7P03/view?usp=share_link)
 
 - ⚡ Fun fact **I am Funny**
-
-# 💫 About Me:
-JWT Web Authentication Project<br>Node.js Projects<br>React.js<br>React.js Solidity and AIML<br>I am Funny
 
 
 ## 🌐 Socials:
