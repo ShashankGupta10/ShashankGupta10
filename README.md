@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node.js**
 
-- 📫 How to reach me **shashankgupta9248@gmail.com**
+- 📫 How to reach me [Gmail]**shashankgupta9248@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mgT8Fb-cZDQEpVZhZx06Oy7qA1gS7P03/view?usp=share_link)
 
