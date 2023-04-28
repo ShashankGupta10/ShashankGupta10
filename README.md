@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shashankgupta9248@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1mgT8Fb-cZDQEpVZhZx06Oy7qA1gS7P03/view?usp=share_link](https://drive.google.com/file/d/1Qcn9KZRZ3StFyuPYwlHXPTRtu8Xsmdf_/view?usp=sharing))
+- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1Qcn9KZRZ3StFyuPYwlHXPTRtu8Xsmdf_/view?usp=sharing])
 
 - ⚡ Fun fact **I am Funny**
 
