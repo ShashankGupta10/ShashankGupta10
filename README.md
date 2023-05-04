@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">A passionate Backend and Frontend developer from India</h3>
 
-- 🔭 I’m currently working on **JWT Web Authentication Project**
+- 🔭 I’m currently working on **Learning React.js**
 
 - 🌱 I’m currently learning **React.js, Node.js and Express.js**
 
