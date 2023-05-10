@@ -1,7 +1,7 @@
-<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png">
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">A passionate Backend and Frontend developer from India</h3>
-<div align="center">
+<img src = "https://github.com/ShashankGupta10/ShashankGupta10/assets/117008526/58cba1cb-a143-41ea-bd5f-f4dca5595d22">
+
  <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SHASHANK+GUPTA;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
