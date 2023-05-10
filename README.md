@@ -1,8 +1,11 @@
+<img src = "https://res.cloudinary.com/practicaldev/image/fetch/s--enVmT-G4--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/7j8s2h4erdejm82dyyn7.png">
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">A passionate Backend and Frontend developer from India</h3>
 <div align="center">
  <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SHASHANK+GUPTA;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
+
+<img  align="right" margin-top="10px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
 - 🔭 I’m currently working on **Learning React.js**
 
