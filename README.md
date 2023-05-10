@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">A passionate Backend and Frontend developer from India</h3> 
 
+<div align="center">
+ <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
+</div>
+
 - 🔭 I’m currently working on **Learning React.js**
 
 - 🌱 I’m currently learning **React.js, Node.js and Express.js**
