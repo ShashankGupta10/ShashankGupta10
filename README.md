@@ -1,8 +1,6 @@
+<img src ="https://github.com/ShashankGupta10/ShashankGupta10/assets/117008526/89329af3-82b4-46cd-ad58-0733561909ab">
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
 <h3 align="center">A passionate Backend and Frontend developer from India</h3>
-<img src ="https://github.com/ShashankGupta10/ShashankGupta10/assets/117008526/89329af3-82b4-46cd-ad58-0733561909ab">
-
-
  <img height="95" src="https://readme-typing-svg.herokuapp.com/?lines=SHASHANK+GUPTA;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;WEB+DEVELOPER;&color=cyan&center=true" />
 </div>
 
