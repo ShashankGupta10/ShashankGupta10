@@ -7,13 +7,13 @@
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
-- 🔭 I’m currently working on **Learning React.js**
+- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.js, Node.js and Express.js**
+- 🌱 I’m currently learning **The MERN Stack**
 
 - 👨‍💻 All of my projects are available at [Github](github.com/ShashankGupta10)
 
-- 💬 Ask me about **Node.js**
+- 💬 Ask me about **Node.js and Express.js**
 
 - 📫 How to reach me **shashankgupta9248@gmail.com**
 
