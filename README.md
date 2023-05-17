@@ -57,7 +57,7 @@
 </br>
 <div ><h3> 👨‍💻 Databases: </h3> 
    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&color=black">
  </div>
  </br>
    <div ><h3> ⚓️ Tools: </h3> 
