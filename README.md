@@ -50,9 +50,9 @@
  <div ><h3> 👾 BackEnd: </h3> 
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
    <img src="https://img.shields.io/badge/Express.js-%23323330?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
-   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="mongodb"/>
-   <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongodb"/>
-   <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcrypt&logoColor=white&color=blue" align="center" alt="mongodb"/>
+   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
+   <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
+   <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
  </div>
 </br>
 <div ><h3> 👨‍💻 Databases: </h3> 
