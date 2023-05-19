@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](github.com/ShashankGupta10)
 
-- 💬 Ask me about **Node.js and Express.js**
+- 💬 Ask me about **Node.js and Express.js**.
 
 - 📫 How to reach me **shashankgupta9248@gmail.com**
 
