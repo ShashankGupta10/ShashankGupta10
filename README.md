@@ -53,6 +53,7 @@
    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" align="center" alt="jwt"/>
    <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
    <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
+   <img src="https://img.shields.io/badge/Passport.js-4EA94B?style=for-the-badge&logo=passport&logoColor=white&color=blue" align="center" alt="passport"/>
  </div>
 </br>
 <div ><h3> 👨‍💻 Databases: </h3> 
