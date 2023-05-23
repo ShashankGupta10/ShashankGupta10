@@ -67,7 +67,8 @@
    <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
    <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
    <img src="https://img.shields.io/badge/Visual%20Studio-%231572B6.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
-   <img src = "https://img.shields.io/badge/Render-%23150458.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt = "vscode"/>
+   <img src = "https://img.shields.io/badge/Render-%23150458.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt = "render"/>
+   <img src = "https://img.shields.io/badge/Netlify-%23150458.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt = "netlify"/>
  </div>
  </br>
  </br>
