@@ -46,6 +46,9 @@
  <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
  <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
  <img src ="https://img.shields.io/badge/ejs-%23323330.svg?style=for-the-badge&logo=ejs&logoColor=yellow" align="center" alt="ejs">
+ <img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue&Color=black" align="center" alt="ejs">
+ <img src = "https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="css3">
+ <img src="https://img.shields.io/badge/Material UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=#00C7B7&color=red" align="center" alt="git"/>
 </div>
 </br>
  <div ><h3> 👾 BackEnd: </h3> 
