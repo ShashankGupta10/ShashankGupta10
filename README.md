@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **The MERN Stack**
+- 🌱 I’m currently learning **Deep Learning with Tensorflow**
 
 - 👨‍💻 All of my projects are available at [Github](github.com/ShashankGupta10)
 
