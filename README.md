@@ -7,7 +7,7 @@
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
-- 🔭 I’m currently working on **React.js**
+- 🔭 I’m currently working on **Deep Learning and ML with Python**
 
 - 🌱 I’m currently learning **Deep Learning with Tensorflow**
 
