@@ -88,7 +88,7 @@
 </br>
 <div><img src = "https://github-readme-stats.vercel.app/api?username=ShashankGupta10&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false"><br/></br>
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ShashankGupta10&theme=shades-of-purple&hide_border=false"><br/></br>
-<img src ="ttps://leetcard.jacoblin.cool/ShashankGupta10?ext=activity"><br/></br>
+<img src ="https://leetcard.jacoblin.cool/ShashankGupta10?ext=activity"><br/></br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGupta10&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></div>
 </br>
 
