@@ -7,7 +7,7 @@
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
-- 🔭 I’m currently working on **Deep Learning and ML with Python**
+- 🔭 I’m currently working on [Stonks](https://stonks-shashank-gupta.vercel.app)
 
 - 🌱 I’m currently learning **Deep Learning with Tensorflow**
 
@@ -52,6 +52,8 @@
  <img src ="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue&Color=black" align="center" alt="ejs">
  <img src = "https://img.shields.io/badge/redux-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white" align="center" alt="css3">
  <img src="https://img.shields.io/badge/Material UI-%23000000.svg?style=for-the-badge&logo=mui&logoColor=#00C7B7&color=red" align="center" alt="git"/>
+ <img src="https://img.shields.io/badge/Next JS-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=#00C7B7&color=red" align="center" alt="git"/>
+ <img src="https://img.shields.io/badge/Tailwind CSS-%23000000.svg?style=for-the-badge&logo=Tailwind CSS&logoColor=#00C7B7&color=red" align="center" alt="git"/>
 </div>
 </br>
  <div ><h3> 👾 BackEnd: </h3> 
@@ -61,6 +63,7 @@
    <img src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white&color=red" align="center" alt="mongoose"/>
    <img src="https://img.shields.io/badge/Bcrypt JS-4EA94B?style=for-the-badge&logo=bcryptjs&logoColor=white&color=blue" align="center" alt="bcrypt"/>
    <img src="https://img.shields.io/badge/Passport.js-4EA94B?style=for-the-badge&logo=passport&logoColor=white&color=blue" align="center" alt="passport"/>
+   <img src="https://img.shields.io/badge/Flask-4EA94B?style=for-the-badge&logo=Flask&logoColor=white&color=green" align="center" alt="passport"/>
  </div>
 </br>
 <div ><h3> 👨‍💻 Databases: </h3> 
@@ -76,6 +79,7 @@
    <img src="https://img.shields.io/badge/Visual%20Studio-%231572B6.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
    <img src = "https://img.shields.io/badge/Render-%23150458.svg?style=for-the-badge&logo=render&logoColor=white" align="center" alt = "render"/>
    <img src = "https://img.shields.io/badge/Netlify-%23150458.svg?style=for-the-badge&logo=netlify&logoColor=white" align="center" alt = "netlify"/>
+   <img src = "https://img.shields.io/badge/Vercel-%23150458.svg?style=for-the-badge&logo=vercel&logoColor=white&color=black" align="center" alt = "netlify"/>
  </div>
  </br>
  </br>
@@ -84,6 +88,7 @@
 </br>
 <div><img src = "https://github-readme-stats.vercel.app/api?username=ShashankGupta10&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false"><br/></br>
 <img src ="https://github-readme-streak-stats.herokuapp.com/?user=ShashankGupta10&theme=shades-of-purple&hide_border=false"><br/></br>
+<img src ="ttps://leetcard.jacoblin.cool/ShashankGupta10?ext=activity"><br/></br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ShashankGupta10&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"></div>
 </br>
 
