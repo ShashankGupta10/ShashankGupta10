@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shashankgupta9248@gmail.com**
 
-- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1Qcn9KZRZ3StFyuPYwlHXPTRtu8Xsmdf_/view?usp=sharing)
+- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1OwQLrLuG96KqCQNmgdotov4E4u__gpl2/view?usp=sharing)
 
 - ⚡ Fun fact **I am Funny**
 
