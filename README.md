@@ -7,17 +7,17 @@
 
 <img  align="right" margin-top="30px" alt="Coding" width="350" height="80%" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/developer-dribbble.gif">
 
-- 🔭 I’m currently working on [Stonks](https://stonks-shashank-gupta.vercel.app)
+- 🔭 I’m currently working on [CollaboWrite](https://collabowrite.vercel.app)
 
-- 🌱 I’m currently learning **Deep Learning with Tensorflow**
+- 🌱 I’m currently learning **Golang and Langchain**
 
 - 👨‍💻 All of my projects are available at [Github](github.com/ShashankGupta10)
 
-- 💬 Ask me about **The MERN stack**.
+- 💬 Ask me about **The Web Development and NLP**.
 
 - 📫 How to reach me **shashankgupta9248@gmail.com**
 
-- 📄 Know about my Projects [Resume](https://drive.google.com/file/d/1OwQLrLuG96KqCQNmgdotov4E4u__gpl2/view?usp=sharing)
+- 📄 Know about my Projects [Resume](https://shashank-gupta.vercel.app/Shashank_Gupta_Resume.pdf)
 
 - ⚡ Fun fact **I am Funny**
 
